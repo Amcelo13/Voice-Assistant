@@ -12,9 +12,9 @@ It is capable of opening websites like Google, Youtube, etc., in a web browser.
 
 It is capable of opening your code editor or IDE with a single voice command.
 
+It can also send #Whatsapp Messages by web using #pywhatkit module 
 
 
 
 
-
-                                                                 Made with creativity and ❤️ by Chetan Thakur!
+                                                           Made with creativity and ❤️ by Chetan Thakur!
